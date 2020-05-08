@@ -1,2 +1,2 @@
 # grade_calculator
-A simple grade calculator 
+This is a simple grade calculator created with tkinter.
