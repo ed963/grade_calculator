@@ -390,7 +390,6 @@ if __name__ == '__main__':
     root.grid_columnconfigure(0, weight=1)
     root.title("Grade Calculator")
     root.geometry("+275+200")
-    root.iconbitmap(default='icon.ico')
 
     app = App(root)
 
